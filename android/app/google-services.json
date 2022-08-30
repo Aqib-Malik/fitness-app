@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1049805345197",
+    "project_id": "nike-app-f25e0",
+    "storage_bucket": "nike-app-f25e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049805345197:android:1a058ea065bb812181d124",
+        "android_client_info": {
+          "package_name": "com.example.fitness_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049805345197-vaavevgk5062146o2dgbasdnlm9d9tgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT44kx3wGDmsZSvkB4tfaEDwUCAhGLeV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049805345197-vaavevgk5062146o2dgbasdnlm9d9tgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049805345197:android:893c2e84fd47583181d124",
+        "android_client_info": {
+          "package_name": "com.example.nike_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049805345197-vaavevgk5062146o2dgbasdnlm9d9tgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT44kx3wGDmsZSvkB4tfaEDwUCAhGLeV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049805345197-vaavevgk5062146o2dgbasdnlm9d9tgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049805345197:android:419223b1f4759a6981d124",
+        "android_client_info": {
+          "package_name": "com.nikeapp.nike_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049805345197-vaavevgk5062146o2dgbasdnlm9d9tgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT44kx3wGDmsZSvkB4tfaEDwUCAhGLeV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049805345197-vaavevgk5062146o2dgbasdnlm9d9tgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
